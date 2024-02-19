@@ -1,7 +1,7 @@
 let firstname : String = "Екатерина"
 let lastname : String = "Сеник"
 let Birthdate = "19.03.2002"
-let age : int = 21
+let age : Int = 21
 let stayplace : String = "Россия, Санкт-Петербург"
 let profession : String  = "Бизнес-аналитик"
 
